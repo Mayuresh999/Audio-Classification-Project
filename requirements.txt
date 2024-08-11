@@ -1,0 +1,11 @@
+torch
+torchaudio
+pytorch-lightning
+torchsummary
+dvc
+ensure
+numpy
+pandas
+tqdm
+pyYAML
+-e .
